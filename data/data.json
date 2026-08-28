@@ -1,0 +1,17 @@
+[
+  {
+    "nama": "Budi Santoso",
+    "umur": 26,
+    "pekerjaan": "Programmer",
+    "_id": 0,
+    "_created_at": "2026-08-29T06:14:32.005531",
+    "status": "active",
+    "_updated_at": "2026-08-29T06:14:32.277733"
+  },
+  {
+    "nama": "Siti",
+    "umur": 28,
+    "_id": 1,
+    "_created_at": "2026-08-29T06:14:32.077633"
+  }
+]
