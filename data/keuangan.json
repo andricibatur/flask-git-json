@@ -1,21 +1,21 @@
 [
   {
+    "created_at": "2026-08-29T06:41:10.576919",
     "id": 1,
     "jenis": "pemasukan",
     "jumlah": 55888,
     "kategori": "Lainnya",
     "keterangan": "Guthub",
-    "tanggal": "2026-08-29T06:41:10.576843",
-    "created_at": "2026-08-29T06:41:10.576919"
+    "tanggal": "2026-08-29T06:41:10.576843"
   },
   {
+    "created_at": "2026-08-29T06:44:33.992125",
     "id": 2,
     "jenis": "pemasukan",
     "jumlah": 1800000,
     "kategori": "Gajian",
     "keterangan": "Gajian coy",
-    "tanggal": "2026-08-29T06:44:33.991920",
-    "created_at": "2026-08-29T06:44:33.992125"
+    "tanggal": "2026-08-29T06:44:33.991920"
   },
   {
     "id": 3,

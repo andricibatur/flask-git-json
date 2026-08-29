@@ -1,29 +1,29 @@
 [
   {
+    "created_at": "2026-08-29T17:49:21.384332",
+    "deadline": "2026-08-29",
     "id": 1,
-    "tugas": "Apa saja",
-    "prioritas": "sedang",
     "kategori": "Umum",
-    "deadline": "2026-08-29",
+    "prioritas": "sedang",
     "selesai": false,
-    "created_at": "2026-08-29T17:49:21.384332"
+    "tugas": "Apa saja"
   },
   {
+    "created_at": "2026-08-29T17:49:25.866230",
+    "deadline": "2026-08-29",
     "id": 2,
-    "tugas": "Apa saja",
-    "prioritas": "sedang",
     "kategori": "Umum",
-    "deadline": "2026-08-29",
+    "prioritas": "sedang",
     "selesai": false,
-    "created_at": "2026-08-29T17:49:25.866230"
+    "tugas": "Apa saja"
   },
   {
-    "id": 3,
-    "tugas": "Line",
-    "prioritas": "sedang",
-    "kategori": "Umum",
+    "created_at": "2026-08-29T17:56:29.311501",
     "deadline": "2026-08-29",
+    "id": 3,
+    "kategori": "Umum",
+    "prioritas": "sedang",
     "selesai": false,
-    "created_at": "2026-08-29T17:56:29.311501"
+    "tugas": "Line"
   }
 ]
