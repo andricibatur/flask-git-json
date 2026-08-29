@@ -24,5 +24,13 @@
     "kategori": "Transfort",
     "keterangan": "Transaksi",
     "tanggal": "2026-08-29T17:49:57.305253"
+  },
+  {
+    "id": 4,
+    "jenis": "pengeluaran",
+    "jumlah": 1800000,
+    "kategori": "Makan",
+    "keterangan": "Transaksi",
+    "tanggal": "2026-08-29T17:50:36.796026"
   }
 ]
