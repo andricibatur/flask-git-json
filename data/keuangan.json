@@ -16,5 +16,13 @@
     "keterangan": "Gajian coy",
     "tanggal": "2026-08-29T06:44:33.991920",
     "created_at": "2026-08-29T06:44:33.992125"
+  },
+  {
+    "id": 3,
+    "jenis": "pemasukan",
+    "jumlah": 25000,
+    "kategori": "Transfort",
+    "keterangan": "Transaksi",
+    "tanggal": "2026-08-29T17:49:57.305253"
   }
 ]
