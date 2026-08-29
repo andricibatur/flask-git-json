@@ -1,23 +1,9 @@
 [
   {
-    "id": 1,
-    "isi": "Catat",
-    "judul": "Judul",
-    "kategori": "Umum",
-    "tanggal": "2026-08-29T17:51:08.540288"
-  },
-  {
     "id": 2,
     "judul": "Paket stiker cod",
     "isi": "Paket stiker cod Rp. 43.000\nLazada perkiraan senin",
     "kategori": "Zaed",
     "tanggal": "2026-08-29T12:28:40.494Z"
-  },
-  {
-    "id": 3,
-    "judul": "Hapus catatan",
-    "isi": "Hapus",
-    "kategori": "Hapus",
-    "tanggal": "2026-08-29T12:30:31.092Z"
   }
 ]
