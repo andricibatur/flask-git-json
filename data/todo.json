@@ -23,7 +23,7 @@
     "id": 3,
     "kategori": "Umum",
     "prioritas": "sedang",
-    "selesai": false,
+    "selesai": true,
     "tugas": "Line"
   }
 ]
