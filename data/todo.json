@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "tugas": "Apa saja",
+    "prioritas": "sedang",
+    "kategori": "Umum",
+    "deadline": "2026-08-29",
+    "selesai": false,
+    "created_at": "2026-08-29T17:49:21.384332"
+  }
+]
